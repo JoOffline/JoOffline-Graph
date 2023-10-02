@@ -1,0 +1,8 @@
+# Misalkan Anda ingin melakukan komit untuk huruf "J"
+git commit --date="2023-02-01" -m "J part 1"
+git commit --date="2023-10-02" -m "J part 2"
+git commit --date="2023-10-03" -m "J part 3"
+git commit --date="2023-10-04" -m "J part 4"
+git commit --date="2023-10-05" -m "J part 5"
+
+# Lanjutkan untuk huruf "o", "O", "f", "l", "i", "n", "e" sesuai rencana
