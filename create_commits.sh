@@ -23,6 +23,6 @@ make_commit "i" 3 "$date1"
 make_commit "n" 3 "$date1"
 make_commit "e" 3 "$date1"
 
-# Push semua perubahan ke repository
-git add .
-git push origin main
+git add .            # Menambahkan semua file yang baru dibuat ke staging area
+git commit -m "Push semua perubahan untuk grafik kontribusi JoOffline" # Komit perubahan
+git push origin main # Push ke branch main di remote repository
